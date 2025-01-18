@@ -1,4 +1,4 @@
-#JavaScript Chronicles 📜
+<h1>JavaScript Chronicles 📜</h1>
 
 Welcome to my JavaScript Chronicles! This repository is a treasure trove of my adventures in learning JavaScript through the amazing <a href="https://www.freecodecamp.org/">FreeCodeCamp.</a> 🌟
 
