@@ -1,0 +1,13 @@
+console.log("Hello! I'm your coding fun fact guide!");
+let botName="Cookie";
+let botLocation="Earth";
+let favoriteLanguage="C";
+console.log("My name is "+botName+" and I live on "+botLocation+".");
+console.log("My favorite programming language is "+favoriteLanguage+".");
+let codingFact="The "+favoriteLanguage+"  language wasn't always called " +favoriteLanguage+" ! It was initially known as \"New B\", an improved version of the B programming language.Since "+favoriteLanguage+" follows B alphabetically, it was eventually renamed "+favoriteLanguage+" before its official release.";
+console.log(codingFact);
+codingFact="The iconic \"Hello, World!\" program, often the first program beginners write, was actually popularized by Brian Kernighan and Dennis Ritchie in their book \"The "+favoriteLanguage+" Programming Language.\"";
+console.log(codingFact);
+codingFact="This "+favoriteLanguage+" boasts a unique ternary operator (?:) which is the only one of its kind. It's a concise way to express conditional logic.";
+console.log(codingFact);
+console.log("It was fun sharing these facts with you. Goodbye! - "+botName+" from " +botLocation+".");
